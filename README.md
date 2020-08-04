@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🌱 I’m currently learning ...
-
+![](github%20readme.jpg) 
 <!--
 **angga-22/angga-22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
