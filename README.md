@@ -1,8 +1,12 @@
 ### Hi there 👋
 ![github readme](https://user-images.githubusercontent.com/60957946/89313590-e304a580-d6a2-11ea-9148-ea9be7169d90.jpg)
+### My Personal Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=angga-22&show_icons=true&theme=radical)
 
-### Test descr
+### Most Used Langs
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angga-22&layout=compact&theme=radical)
+
+
 <!--
 **angga-22/angga-22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
