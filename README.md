@@ -1,7 +1,6 @@
 # Hi there 👋 I am Angga, 
 ### Welcome to my profile, I like to challenge myself to learn a new technologies. In my spare time I'd like to play Dota2.
 
-![github readme](https://user-images.githubusercontent.com/60957946/89313590-e304a580-d6a2-11ea-9148-ea9be7169d90.jpg)
 
 ### My Personal Stats:
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=angga-22&show_icons=true&theme=radical)
