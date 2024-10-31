@@ -1,4 +1,4 @@
-# Hi there 👋 I am Angga, 
+# Thanks for visiting me, 📨 DM me to discuss or talk about projects.
 ### Dreams come true if you are consistent.
 
 
