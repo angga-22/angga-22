@@ -1,5 +1,5 @@
 # Hi there 👋 I am Angga, 
-### Welcome to my profile, I like to challenge myself to learn a new technologies. In my spare time I'd like to play Dota2.
+### Dreams come true if you are consistent.
 
 
 ### My Personal Stats:
