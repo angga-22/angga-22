@@ -1,6 +1,16 @@
 # Thanks for visiting me, 
+I’m a full-stack software engineer with 5+ yoe, currently diving deep into security-focused development at the intersection of blockchain and AI technologies.
+
+🧠 I’m passionate about problem-solving, and I’m always exploring ways to improve system design and software architecture. Lately, I’ve been doubling down on building resilient, scalable systems with a strong emphasis on security and decentralization.
+
+📚 I believe that great engineering starts with great documentation—so much so that I maintain my own personal engineering wiki to keep knowledge organized and accessible.
+
+🚀 Always learning, always building — aiming for a master's in computer science and passionate about impactful software development.
+
+🎸 When I’m not coding, you’ll probably find me playing guitar or vibing to my favorite playlists. Always up for a good tech discussion—feel free to connect!
+
 ## 📨 DM me to discuss or talk about projects.
-### Dreams come true if you are consistent.
+
 
 
 ### My Personal Stats:
