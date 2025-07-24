@@ -1,13 +1,26 @@
-# Hi, How can I help you? 
-I’m a full-stack software engineer with 5+ yoe, currently diving deep into security-focused development at the intersection of blockchain and AI technologies.
+# 👋 Hey, I’m Angga
 
-🧠 I’m passionate about problem-solving, and I’m always exploring ways to improve system design and software architecture. Lately, I’ve been doubling down on building resilient, scalable systems with a strong emphasis on security and decentralization.
+> Full-stack engineer · Security nerd · Blockchain explorer · AI builder  
+> Always learning, always building.
 
-📚 I believe that great engineering starts with great documentation—so much so that I maintain my own personal engineering wiki to keep knowledge organized and accessible.
+---
 
-🚀 Always learning, always building — aiming for a master's in computer science and passionate about impactful software development.
+### 🚧 What I'm Up To
 
-🎸 When I’m not coding, you’ll probably find me playing guitar or vibing to my favorite playlists. Always up for a good tech discussion—feel free to connect!
+- 🔐 Building resilient systems at the crossroads of **AI x Blockchain x Security**
+- 🧠 Maintaining my own [Engineering Wiki](#) — because good docs save lives
+- ⚙️ Obsessed with clean architecture, type-safety, and system design
+- 🎯 Prepping for a **Master’s in Computer Science**
+
+---
+
+### 🛠️ Tech Stack Highlights
+
+```ts
+Languages:   TypeScript, Go, Python, Solidity, JavaScript  
+Frameworks:  React, Node.js, NestJS, Express, Flutter  
+DevOps:      Docker, AWS, Firebase, PostgreSQL, DynamoDB  
+Other:       Web3, JWT, GraphQL, REST, CI/CD, Redis, OpenAI APIs  
 
 ## 📨 DM me to discuss or talk about projects.
 
