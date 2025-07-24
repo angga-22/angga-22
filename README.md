@@ -1,4 +1,4 @@
-# Hi, you are on the right place! 
+# Hi, How can I help you? 
 I’m a full-stack software engineer with 5+ yoe, currently diving deep into security-focused development at the intersection of blockchain and AI technologies.
 
 🧠 I’m passionate about problem-solving, and I’m always exploring ways to improve system design and software architecture. Lately, I’ve been doubling down on building resilient, scalable systems with a strong emphasis on security and decentralization.
