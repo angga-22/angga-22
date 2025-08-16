@@ -1,4 +1,5 @@
 # 👋 Hey, I’m Angga
+## Full or Pull Stack 😆
 
 > Full-stack engineer · Security nerd · Blockchain explorer · AI builder  
 > Always learning, always building.
