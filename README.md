@@ -26,4 +26,4 @@ Other:       Web3, JWT, GraphQL, REST, CI/CD, Redis, OpenAI APIs, Socket.io
 
 ```
 
-## 📨 DM me to discuss or talk about projects.
+## 📨 DM me to discuss or talk about projects ->> `anggasp.unib@gmail.com`
