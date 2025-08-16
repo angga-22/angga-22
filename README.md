@@ -22,6 +22,8 @@ Frameworks:  React, Angular, Node.js, NestJS, Express, Django, Springboot
 DevOps:      Docker, AWS, Firebase, PostgreSQL, DynamoDB  
 Other:       Web3, JWT, GraphQL, REST, CI/CD, Redis, OpenAI APIs, Socket.io
 
-## 📨 DM me to discuss or talk about projects.
+
 
 ```
+
+## 📨 DM me to discuss or talk about projects.
