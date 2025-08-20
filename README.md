@@ -1,7 +1,7 @@
 # 👋 Hey, I’m Angga
 
 > Full-stack engineer · Security nerd · Blockchain explorer · AI builder  
-> Always learning, always building.
+
 
 ---
 
