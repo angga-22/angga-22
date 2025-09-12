@@ -25,5 +25,5 @@ Other:       Web3, JWT, GraphQL, REST, CI/CD, Redis, OpenAI APIs, Socket.io
 
 
 ```
-
+![Profile Views](https://komarev.com/ghpvc/?username=angga-22&label=Profile%20views&color=0e75b6&style=flat)
 #### 📨 DM me to discuss or talk about projects
