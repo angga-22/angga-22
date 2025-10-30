@@ -17,10 +17,15 @@
 ### 🛠️ Tech Stack Highlights
 
 ```ts
-Languages:   TypeScript, Go, Python, Java
-Frameworks:  React, Angular, Node.js, NestJS, Express, Django, Springboot
-DevOps:      Docker, AWS, Firebase, PostgreSQL, DynamoDB  
-Other:       Web3, JWT, GraphQL, REST, CI/CD, Redis, OpenAI APIs, Socket.io
+Languages:   Javascript + Typescript, Python, Java, Go, Swift
+Frameworks:  Nodejs, Nestjs, Nextjs, Vue3, Angular, Expressjs, Graphql,
+gRPC, Apollo, Gorm, Echo, Jest, Prisma, Spring, SpringBoot, Quarkus, Django, Poetry, UV,
+Keycloak, Core Data, Core Map, UIKit, Swift UI, ThirdWeb, Ethersjs, WalletConnect
+DevOps:      AWS (ECS, S3, VPC, RDS, DynamoDB, EC2, Route53, CloudFront), Github Action,
+Docker, Sentry, Kafka, Red Panda, Prometheus, Grafana, Terraform 
+Other:       System Design, Web3, JWT, GraphQL, REST, CI/CD, Redis, OpenAI APIs, Socket.io, Jira, Figma, Notion, Stripe, SendGrid, Twilio, Twitter API, Telegram API, Postman,
+Dbeaver
+Problem solving: Data Structures and Algorithms, System Design
 
 
 
