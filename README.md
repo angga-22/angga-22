@@ -1,16 +1,16 @@
 # 👋 Hey, I’m Angga
 
-> Full-stack engineer · Security nerd · Blockchain explorer · AI builder  
+> T-shaped developer · Security nerd · Blockchain · AI · Frontend engineering · Backend engineering
 
 
 ---
 
 ### 🚧 What I'm Up To
 
-- 🔐 Building resilient systems at the crossroads of **AI x Blockchain x Security**
-- 🧠 Maintaining my own [Engineering Wiki](#) — because good docs save lives
-- ⚙️ Obsessed with clean architecture, type-safety, and system design
-- 🎯 Prepping for a **Master’s in Computer Science**
+- Building resilient systems at the crossroads of **AI x Blockchain x Security**
+- Maintaining my own [Engineering Wiki](#) — because good docs save lives
+- Obsessed with clean architecture, type-safety, and system design
+- Prepping for a **Master’s in Computer Science**
 
 ---
 
