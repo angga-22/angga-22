@@ -5,7 +5,7 @@
 
 ---
 
-### 🚧 What I'm Up To
+### What I'm Up To
 
 - Developing enterprise-grade applications
 - Designing and architecting systems through deep I/O analysis
@@ -17,7 +17,7 @@
 
 ---
 
-### 🛠️ Tech Stack Highlights
+### Tech Stack Highlights
 
 ```ts
 Languages:   Javascript + Typescript, Python, Java, Go, Swift
