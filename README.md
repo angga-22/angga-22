@@ -19,19 +19,43 @@
 
 ### Tech Stack Highlights
 
-```ts
-Languages:   Javascript + Typescript, Python, Java, Go, Swift
-Frameworks:  Nodejs, Nestjs, Nextjs, Vue3, Angular, Expressjs, Graphql,
-gRPC, Apollo, Gorm, Echo, Jest, Prisma, Spring, SpringBoot, Quarkus, Django, Poetry, UV,
-Keycloak, Core Data, Core Map, UIKit, Swift UI, ThirdWeb, Ethersjs, WalletConnect
-DevOps:      AWS (ECS, S3, VPC, RDS, DynamoDB, EC2, Route53, CloudFront), Github Action,
-Docker, Sentry, Kafka, Red Panda, Prometheus, Grafana, Terraform 
-Other:       Web3, JWT, GraphQL, REST, CI/CD, Redis, OpenAI APIs, Socket.io, Jira, Figma, Notion, Stripe, SendGrid, Twilio, Twitter API, Telegram API, Postman,
-Dbeaver
-Problem solving: Data Structures and Algorithms, System Design
+**Language & Core Runtimes**
 
+Fluent: Typescript/Javascript (Node.js), Python, Java (Spring Boot).
 
+Proficient: Swift.
 
-```
+Familiar: Golang, Rust (for Web3/Smart Contracts).
+
+**Distributed Systems & Backend**
+
+Architecture: Microservices, gRPC, REST, GraphQL (Apollo), Event-Driven Design.
+
+Message Brokers: Kafka, Red Panda (High-throughput streaming).
+
+ORM/Data: Prisma, Sequelize, Gorm, Poetry, UV (Python package management).
+
+**Infrastructure & DevOps (Cloud Native)**
+
+Cloud: AWS (ECS, EC2, Route53, CloudFront, S3, Lambda).
+
+IAC: Terraform (Provisioning & State Management).
+
+Observability: Prometheus, Grafana, Sentry (Monitoring & Alerting).
+
+Tools: Docker, Github Actions (CI/CD Pipelines).
+
+**Specialized: Web3 & Security**
+
+Identity: Keycloak(IAM), W3C DIDs, WebAuthn/FIDO2.
+
+Blockchain: Ethers.js, ThirdWeb, WalletConnect, Smart Contract Integration.
+
+**Databases**
+
+Relational: PostgreSQL, MySQL (Optimization & Indexing).
+
+NoSQL: MongoDB, Redis (Caching).
+
 
 #### 📨 DM me to discuss or talk about projects
