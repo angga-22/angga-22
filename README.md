@@ -21,41 +21,41 @@
 
 **Language & Core Runtimes**
 
-Fluent: Typescript/Javascript (Node.js), Python, Java (Spring Boot).
+- Fluent: Typescript/Javascript, Python, Java.
 
-Proficient: Swift.
+- Proficient: Swift.
 
-Familiar: Golang, Rust (for Web3/Smart Contracts).
+- Familiar: Golang, Rust (for Web3/Smart Contracts).
 
 **Distributed Systems & Backend**
 
-Architecture: Microservices, gRPC, REST, GraphQL (Apollo), Event-Driven Design.
+- Architecture: Microservices, gRPC, REST, GraphQL (Apollo), Event-Driven Design.
 
-Message Brokers: Kafka, Red Panda (High-throughput streaming).
+- Message Brokers: Kafka, Red Panda (High-throughput streaming).
 
-ORM/Data: Prisma, Sequelize, Gorm, Poetry, UV (Python package management).
+- ORM/Data: Prisma, Sequelize, Gorm, Poetry, UV (Python package management).
 
 **Infrastructure & DevOps (Cloud Native)**
 
-Cloud: AWS (ECS, EC2, Route53, CloudFront, S3, Lambda).
+- Cloud: AWS (ECS, EC2, Route53, CloudFront, S3, Lambda).
 
-IAC: Terraform (Provisioning & State Management).
+- IAC: Terraform (Provisioning & State Management).
 
-Observability: Prometheus, Grafana, Sentry (Monitoring & Alerting).
+- Observability: Prometheus, Grafana, Sentry (Monitoring & Alerting).
 
-Tools: Docker, Github Actions (CI/CD Pipelines).
+- Tools: Docker, Github Actions (CI/CD Pipelines).
 
 **Specialized: Web3 & Security**
 
-Identity: Keycloak(IAM), W3C DIDs, WebAuthn/FIDO2.
+- Identity: Keycloak(IAM), W3C DIDs, WebAuthn/FIDO2.
 
-Blockchain: Ethers.js, ThirdWeb, WalletConnect, Smart Contract Integration.
+- Blockchain: Ethers.js, ThirdWeb, WalletConnect, Smart Contract Integration.
 
 **Databases**
 
-Relational: PostgreSQL, MySQL (Optimization & Indexing).
+- Relational: PostgreSQL, MySQL (Optimization & Indexing).
 
-NoSQL: MongoDB, Redis (Caching).
+- NoSQL: MongoDB, Redis (Caching).
 
 
 #### 📨 DM me to discuss or talk about projects
