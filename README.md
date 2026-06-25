@@ -1,61 +1,23 @@
-# 👋 Hey, I’m Angga
+## 👋 Hey, I'm Angga
 
-> T-shaped developer · Security nerd · Blockchain · Frontend engineering · Backend engineering
+**DevOps & Software Engineer** — I build and run reliable, scalable systems:
+cloud-native infrastructure, CI/CD, and observability.
 
+### What I'm up to
+- Building and operating **cloud-native platforms** (Kubernetes, service mesh, GitOps) that product teams ship on
+- Designing **CI/CD pipelines and infrastructure-as-code** for repeatable, low-risk deploys
+- Instrumenting systems for **reliability and cost** — observability, SLOs, right-sizing
+- Shipping **open-source developer tooling** (e.g. `cloudsweep` — find AWS waste from your terminal)
+- Writing engineering notes at **angga-dev.com**
+- Prepping for a **Master's in Computer Science**
+- Big on clean architecture, type safety, and **secure-by-design** systems
 
----
+### Tech
+**Infrastructure & DevOps** — AWS (EKS, ECS, EC2, S3, CloudFront, Lambda, IAM) · Kubernetes · Istio/Envoy · ArgoCD (GitOps) · Helm · Terraform · Docker · GitHub Actions
+**Observability** — Prometheus · Grafana · OpenTelemetry · Sentry
+**Backend & distributed systems** — Microservices · gRPC · REST · GraphQL · event-driven · Kafka / Red Panda · Prisma / Sequelize / Gorm
+**Languages** — Fluent: TypeScript/JavaScript, Python, Java · Working: Go, Swift, Rust
+**Security & identity** — Keycloak (IAM) · WebAuthn/FIDO2 · W3C DIDs · OIDC / least-privilege · PASETO
+**Data** — PostgreSQL · MySQL · MongoDB · Redis
 
-### What I'm Up To
-
-- Developing enterprise-grade applications
-- Designing and architecting systems through deep I/O analysis
-- Building scalable micro-frontend applications
-- Creating robust systems at the intersection of Blockchain and Security
-- Maintaining my own [Engineering Wiki](#) — because great documentation saves time and sanity
-- Passionate about clean architecture, type safety, and solid system design
-- Prepping for a **Master’s in Computer Science**
-
----
-
-### Tech Stack Highlights
-
-**Language & Core Runtimes**
-
-- Fluent: Typescript/Javascript, Python, Java.
-
-- Proficient: Swift.
-
-- Familiar: Golang, Rust (for Web3/Smart Contracts).
-
-**Distributed Systems & Backend**
-
-- Architecture: Microservices, gRPC, REST, GraphQL (Apollo), Event-Driven Design.
-
-- Message Brokers: Kafka, Red Panda (High-throughput streaming).
-
-- ORM/Data: Prisma, Sequelize, Gorm, Poetry, UV (Python package management).
-
-**Infrastructure & DevOps (Cloud Native)**
-
-- Cloud: AWS (ECS, EC2, Route53, CloudFront, S3, Lambda).
-
-- IAC: Terraform (Provisioning & State Management).
-
-- Observability: Prometheus, Grafana, Sentry (Monitoring & Alerting).
-
-- Tools: Docker, Github Actions (CI/CD Pipelines).
-
-**Specialized: Web3 & Security**
-
-- Identity: Keycloak(IAM), W3C DIDs, WebAuthn/FIDO2.
-
-- Blockchain: Ethers.js, ThirdWeb, WalletConnect, Smart Contract Integration.
-
-**Databases**
-
-- Relational: PostgreSQL, MySQL (Optimization & Indexing).
-
-- NoSQL: MongoDB, Redis (Caching).
-
-
-#### 📨 DM me to discuss or talk about projects
+📨 DM me to talk infrastructure, platforms, or projects.
