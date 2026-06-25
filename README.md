@@ -14,10 +14,16 @@ cloud-native infrastructure, CI/CD, and observability.
 
 ### Tech
 **Infrastructure & DevOps** — AWS (EKS, ECS, EC2, S3, CloudFront, Lambda, IAM) · Kubernetes · Istio/Envoy · ArgoCD (GitOps) · Helm · Terraform · Docker · GitHub Actions
+
 **Observability** — Prometheus · Grafana · OpenTelemetry · Sentry
+
 **Backend & distributed systems** — Microservices · gRPC · REST · GraphQL · event-driven · Kafka / Red Panda · Prisma / Sequelize / Gorm
+
 **Languages** — Fluent: TypeScript/JavaScript, Python, Java · Working: Go, Swift, Rust
+
 **Security & identity** — Keycloak (IAM) · WebAuthn/FIDO2 · W3C DIDs · OIDC / least-privilege · PASETO
+
 **Data** — PostgreSQL · MySQL · MongoDB · Redis
+
 
 📨 DM me to talk infrastructure, platforms, or projects.
