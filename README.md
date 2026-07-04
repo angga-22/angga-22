@@ -8,7 +8,6 @@
 - Building the core behind it: a custom **Keycloak authentication plugin (Java SPI)**, **W3C Verifiable Credentials** libraries, **WebAuthn/FIDO2**, and a **hybrid post-quantum** crypto path
 - Shipping open-source developer tooling — [**cloudsweep**](https://github.com/angga-22/cloudsweep), find AWS waste from your terminal
 - Growing into **cloud-native / DevOps** via the Apple Institute for DevOps — Kubernetes, GitOps, CI/CD
-- Writing engineering notes at [**angga-dev.com**](https://angga-dev.com)
 - Big on clean architecture, type safety, and secure-by-design systems
 
 ## Tech
