@@ -1,29 +1,28 @@
-## 👋 Hey, I'm Angga
+# 👋 Hey, I'm Angga
 
-**DevOps & Software Engineer** — I build and run reliable, scalable systems:
-cloud-native infrastructure, CI/CD, and observability.
+**Identity & Platform Engineer** — I build secure, passwordless identity platforms: Keycloak, Verifiable Credentials, WebAuthn, and applied cryptography. Growing into cloud-native and DevOps.
 
-### What I'm up to
-- Building and operating **cloud-native platforms** (Kubernetes, service mesh, GitOps) that product teams ship on
-- Designing **CI/CD pipelines and infrastructure-as-code** for repeatable, low-risk deploys
-- Instrumenting systems for **reliability and cost** — observability, SLOs, right-sizing
-- Shipping **open-source developer tooling** (e.g. `cloudsweep` — find AWS waste from your terminal)
-- Writing engineering notes at **angga-dev.com**
-- Prepping for a **Master's in Computer Science**
-- Big on clean architecture, type safety, and **secure-by-design** systems
+## What I'm up to
 
-### Tech
-**Infrastructure & DevOps** — AWS (EKS, ECS, EC2, S3, CloudFront, Lambda, IAM) · Kubernetes · Istio/Envoy · ArgoCD (GitOps) · Helm · Terraform · Docker · GitHub Actions
+- Developing and maintaining a **self-hosted Keycloak identity platform** that other apps authenticate against — passwordless, Verifiable-Credential login
+- Building the core behind it: a custom **Keycloak authentication plugin (Java SPI)**, **W3C Verifiable Credentials** libraries, **WebAuthn/FIDO2**, and a **hybrid post-quantum** crypto path
+- Shipping open-source developer tooling — [**cloudsweep**](https://github.com/angga-22/cloudsweep), find AWS waste from your terminal
+- Growing into **cloud-native / DevOps** via the Apple Institute for DevOps — Kubernetes, GitOps, CI/CD
+- Writing engineering notes at [**angga-dev.com**](https://angga-dev.com)
+- Big on clean architecture, type safety, and secure-by-design systems
 
-**Observability** — Prometheus · Grafana · OpenTelemetry · Sentry
+## Tech
 
-**Backend & distributed systems** — Microservices · gRPC · REST · GraphQL · event-driven · Kafka / Red Panda · Prisma / Sequelize / Gorm
+**Identity, security & cryptography** — Keycloak (custom SPI plugins & theming) · W3C Verifiable Credentials / Presentations · DIDs · WebAuthn / FIDO2 · WalletConnect · Post-Quantum Crypto (NIST lattice — Dilithium/Kyber) · OIDC · PKI · JWT · PASETO · SSL/TLS
 
-**Languages** — Fluent: TypeScript/JavaScript, Python, Java · Working: Go, Swift, Rust
+**Languages** — Fluent: TypeScript/JavaScript, Python, Java · Proficient: Go, Swift · Familiar: Rust, C++
 
-**Security & identity** — Keycloak (IAM) · WebAuthn/FIDO2 · W3C DIDs · OIDC / least-privilege · PASETO
+**Backend & services** — FastAPI · NestJS · Django + DRF · REST · gRPC · GraphQL · event-driven · RabbitMQ / Kafka / Red Panda · Prisma / Sequelize / Gorm
+
+**Infrastructure & cloud** *(growing)* — AWS (ECR, IAM, S3, Secrets Manager, EC2, CloudFront, Lambda) · Docker · GitHub Actions (CI/CD) · Kubernetes · ArgoCD · Helm · Terraform · Ansible
+
+**Observability** — Prometheus · Grafana · Sentry
 
 **Data** — PostgreSQL · MySQL · MongoDB · Redis
 
-
-📨 DM me to talk infrastructure, platforms, or projects.
+📨 DM me to talk identity, security, platforms, or projects.
