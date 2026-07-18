@@ -16,7 +16,7 @@
 
 **Languages** — Fluent: TypeScript/JavaScript, Python, Java · Proficient: Go, Swift · Familiar: Rust, C++
 
-**Backend & services** — FastAPI · NestJS · Django + DRF · REST · gRPC · GraphQL · event-driven · RabbitMQ / Kafka · Prisma / Sequelize / Gorm
+**Backend & services** — FastAPI · NestJS · NodeJS · Django · REST · gRPC · GraphQL · event-driven · RabbitMQ / Kafka · Prisma / Sequelize / Gorm
 
 **Infrastructure & cloud** *(growing)* — AWS (EC2, VPC, IAM (Role & Policy), CloudFront, S3 Bucket, Secrets Manager, ECR, EKS, Fargate, Lambda) · Docker · CI/CD · Kubernetes · ArgoCD · Helm · Terraform · Ansible
 
