@@ -16,12 +16,13 @@
 
 **Languages** — Fluent: TypeScript/JavaScript, Python, Java · Proficient: Go, Swift · Familiar: Rust, C++
 
-**Backend & services** — FastAPI · NestJS · Django + DRF · REST · gRPC · GraphQL · event-driven · RabbitMQ / Kafka / Red Panda · Prisma / Sequelize / Gorm
+**Backend & services** — FastAPI · NestJS · Django + DRF · REST · gRPC · GraphQL · event-driven · RabbitMQ / Kafka · Prisma / Sequelize / Gorm
 
-**Infrastructure & cloud** *(growing)* — AWS (ECR, IAM, S3, Secrets Manager, EC2, CloudFront, Lambda) · Docker · GitHub Actions (CI/CD) · Kubernetes · ArgoCD · Helm · Terraform · Ansible
+**Infrastructure & cloud** *(growing)* — AWS (EC2, VPC, IAM (Role & Policy), CloudFront, S3 Bucket, Secrets Manager, ECR, EKS, Fargate, Lambda) · Docker · CI/CD · Kubernetes · ArgoCD · Helm · Terraform · Ansible
 
-**Observability** — Prometheus · Grafana · Sentry
+**Observability** — Grafana (Grafana Alloy, Loki, Prometheus, Mimir, Tempo) · Sentry
 
 **Data** — PostgreSQL · MySQL · MongoDB · Redis
 
-📨 DM me to talk identity, security, platforms, or projects.
+📨 DM me to talk identity, security, platforms, or any other software engineering topics.
+anggasp.unib@gmail.com
