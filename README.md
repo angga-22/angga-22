@@ -2,6 +2,8 @@
 
 **Identity & Platform Engineer** — I build secure, passwordless identity platforms: Keycloak, Verifiable Credentials, WebAuthn, and applied cryptography. Growing into cloud-native and DevOps.
 
+*Deep in identity & security, broad across the stack — open to interesting problems across software engineering.*
+
 ## What I'm up to
 
 - Developing and maintaining a **self-hosted Keycloak identity platform** that other apps authenticate against — passwordless, Verifiable-Credential login
