@@ -27,7 +27,7 @@ secure by design, it bugs me.
   Credentials, DIDs, WebAuthn/FIDO2, WalletConnect, post-quantum crypto
   (Dilithium, Kyber), OIDC, PKI, JWT, PASETO, TLS
 
-  **Languages:** TypeScript/JavaScript, Python, and Java daily. Go and Swift
+  **Languages:** TypeScript/JavaScript, Python, and Go daily. Java
   when needed. Enough Rust and C++ to be dangerous.
 
   **Backend:** Gin, Chi, FastAPI, NestJS, Node.js, Django, REST, gRPC, GraphQL,
