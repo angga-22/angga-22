@@ -30,11 +30,10 @@ secure by design, it bugs me.
   **Backend:** FastAPI, NestJS, Node.js, Django, REST, gRPC, GraphQL,
   RabbitMQ, Kafka
 
-  **Infra & cloud:** AWS (EC2, VPC, IAM, CloudFront, S3, Secrets Manager, ECR,
-  EKS, Fargate, Lambda), Docker, Kubernetes, ArgoCD, Helm, Terraform, Ansible
+  **Infra & cloud:** AWS (EC2, VPC, IAM, CloudFront, S3, SM, ECR, ECS
+  EKS, Fargate, Lambda, RDS, DynamoDB), Docker, K8s, ArgoCD, Helm, Terraform, Ansible
 
-  **Observability:** Grafana stack (Alloy, Loki, Prometheus, Mimir, Tempo),
-  Sentry
+  **Observability:** Prometheus, Grafana stack (Alloy, Loki, Mimir, Tempo)
 
   **Data:** PostgreSQL, MySQL, MongoDB, Redis
 
