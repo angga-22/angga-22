@@ -1,29 +1,45 @@
-# 👋 Hey, I'm Angga
+# Hey, I'm Angga 👋
 
-**Identity & Platform Engineer** — I build secure, passwordless identity platforms: Keycloak, Verifiable Credentials, WebAuthn, and applied cryptography. Growing into cloud-native and DevOps.
+  I work on identity stuff — mostly passwordless auth with Keycloak,
+  Verifiable Credentials, and WebAuthn, plus the crypto underneath it all.
+  These days I'm also getting my hands dirty with Kubernetes and DevOps.
 
-*Deep in identity & security, broad across the stack — open to interesting problems across software engineering.*
 
-## What I'm up to
+## What I'm working on
 
-- Developing and maintaining a **self-hosted Keycloak identity platform** that other apps authenticate against — passwordless, Verifiable-Credential login
-- Building the core behind it: a custom **Keycloak authentication plugin (Java SPI)**, **W3C Verifiable Credentials** libraries, **WebAuthn/FIDO2**, and a **hybrid post-quantum** crypto path
-- Growing into **cloud-native / DevOps** via the Apple Institute for DevOps — Kubernetes, GitOps, CI/CD
-- Big on clean architecture, type safety, and secure-by-design systems
+- A self-hosted Keycloak identity platform that other apps log in through.
+  No passwords — it uses Verifiable Credentials instead.
+- The guts of it: a custom Keycloak auth plugin (Java SPI), W3C Verifiable
+  Credentials libraries, WebAuthn/FIDO2, and a hybrid post-quantum crypto
+  path
+- Learning Kubernetes, GitOps, and CI/CD at the Apple Institute for DevOps
+
+I'm a bit obsessive about clean architecture and type safety. If it's not
+secure by design, it bugs me.
+
 
 ## Tech
 
-**Identity, security & cryptography** — Keycloak (custom SPI plugins & theming) · W3C Verifiable Credentials / Presentations · DIDs · WebAuthn / FIDO2 · WalletConnect · Post-Quantum Crypto (NIST lattice — Dilithium/Kyber) · OIDC · PKI · JWT · PASETO · SSL/TLS
+  **Identity & crypto:** Keycloak (custom SPI plugins and theming), Verifiable
+  Credentials, DIDs, WebAuthn/FIDO2, WalletConnect, post-quantum crypto
+  (Dilithium, Kyber), OIDC, PKI, JWT, PASETO, TLS
 
-**Languages** — Fluent: TypeScript/JavaScript, Python, Java · Proficient: Go, Swift · Familiar: Rust, C++
+  **Languages:** TypeScript/JavaScript, Python, and Java daily. Go and Swift
+  when needed. Enough Rust and C++ to be dangerous.
 
-**Backend & services** — FastAPI · NestJS · NodeJS · Django · REST · gRPC · GraphQL · event-driven · RabbitMQ / Kafka · Prisma / Sequelize / Gorm
+  **Backend:** FastAPI, NestJS, Node.js, Django, REST, gRPC, GraphQL,
+  RabbitMQ, Kafka
 
-**Infrastructure & cloud** *(growing)* — AWS (EC2, VPC, IAM (Role & Policy), CloudFront, S3 Bucket, Secrets Manager, ECR, EKS, Fargate, Lambda) · Docker · CI/CD · Kubernetes · ArgoCD · Helm · Terraform · Ansible
+  **Infra & cloud:** AWS (EC2, VPC, IAM, CloudFront, S3, Secrets Manager, ECR,
+  EKS, Fargate, Lambda), Docker, Kubernetes, ArgoCD, Helm, Terraform, Ansible
 
-**Observability** — Grafana (Grafana Alloy, Loki, Prometheus, Mimir, Tempo) · Sentry
+  **Observability:** Grafana stack (Alloy, Loki, Prometheus, Mimir, Tempo),
+  Sentry
 
-**Data** — PostgreSQL · MySQL · MongoDB · Redis
+  **Data:** PostgreSQL, MySQL, MongoDB, Redis
 
-📨 DM me to talk identity, security, platforms, or any other software engineering topics.
+
+## Say hi
+
+Always up for a chat about identity, security, or whatever you're building:
 anggasp.unib@gmail.com
