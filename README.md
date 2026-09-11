@@ -31,7 +31,7 @@ secure by design, it bugs me.
   RabbitMQ, Kafka
 
   **Infra & cloud:** AWS (EC2, VPC, IAM, CloudFront, S3, SM, ECR, ECS
-  EKS, Fargate, Lambda, RDS, DynamoDB), Docker, K8s, ArgoCD, Helm, Terraform, Ansible
+  EKS, Fargate, Lambda, RDS, DynamoDB), Containerization & Orchestration, ArgoCD, Helm, Service Mesh, Terraform, Ansible
 
   **Observability:** Prometheus, Grafana stack (Alloy, Loki, Mimir, Tempo)
 
