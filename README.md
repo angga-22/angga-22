@@ -27,11 +27,10 @@ secure by design, it bugs me.
   **Languages:** TypeScript/JavaScript, Python, and Java daily. Go and Swift
   when needed. Enough Rust and C++ to be dangerous.
 
-  **Backend:** FastAPI, NestJS, Node.js, Django, REST, gRPC, GraphQL,
+  **Backend:** Gin, Chi, FastAPI, NestJS, Node.js, Django, REST, gRPC, GraphQL,
   RabbitMQ, Kafka
 
-  **Infra & cloud:** AWS (EC2, VPC, IAM, CloudFront, S3, SM, ECR, ECS
-  EKS, Fargate, Lambda, RDS, DynamoDB), Containerization & Orchestration, ArgoCD, Helm, Service Mesh, Terraform, Ansible
+  **Infra & cloud:** AWS (Networking, Serverless Architecture, Compute, Storage), Containerization & Orchestration, CI/CD, ArgoCD, Helm Template, Service Mesh, IAC & CAC
 
   **Observability:** Prometheus, Grafana stack (Alloy, Loki, Mimir, Tempo)
 
